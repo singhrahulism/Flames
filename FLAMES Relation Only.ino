@@ -1,6 +1,6 @@
 // FLAMES Code
 
-String name1="RACHNA", name2="DHIR", commonLetters, title="FLAMES" ;
+String name1="Name1", name2="Name2", commonLetters, title="FLAMES" ;
 
 void setup() {
   Serial.begin(9600) ;  
